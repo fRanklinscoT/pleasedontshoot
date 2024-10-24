@@ -13,13 +13,7 @@ This application is a Laravel-based platform that allows users to challenge each
 ## Table of Contents
 
 [Installation](#installation)
-[Usage](#usage)
-[Models](#models)
-[Components](#components)
-[Events](#events)
-[Ranking Logic](#ranking-logic)
-[Contributing](#contributing)
-[License](#license)
+
 
 ## Installation
 
